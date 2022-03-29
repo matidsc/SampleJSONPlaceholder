@@ -1,0 +1,38 @@
+{
+  "GPU": [
+    {
+      "id": "1",
+      "modelo": "RTX 3090",
+      "descripcion": "descripcion prueba"
+    },
+    {
+        "id": "2",
+        "modelo": "RTX 3080",
+        "descripcion": "descripcion prueba"
+      }
+  ],
+  "CPU": [
+    {
+      "id": "1",
+      "modelo": "i7 10040",
+      "descripcion": "descripcion prueba"
+    },
+    {
+        "id": "2",
+        "modelo": "i5 6400",
+        "descripcion": "descripcion prueba"
+      }
+  ],
+  "SSD": [
+    {
+      "id": "1",
+      "modelo": "Samsung 480gb",
+      "descripcion": "descripcion prueba"
+    },
+    {
+        "id": "2",
+        "modelo": "Samsung 240gb",
+        "descripcion": "descripcion prueba"
+      }
+  ]
+}
