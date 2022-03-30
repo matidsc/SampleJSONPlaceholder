@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "json:server":"json-server --watch db.json"
+    "json:server":"json-server --watch db.json",
+    "applyChanges":"git commit -am 'CommandTest' & git push & json-server --watch db.json"
   },
   "author": "",
   "license": "ISC",

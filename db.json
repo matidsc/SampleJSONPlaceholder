@@ -1,20 +1,47 @@
 {
   "GPU": [
+   
     {
       "id": "1",
-      "modelo": "RTX 3090",
+      "modelo": "GPU Palit Geforce GTX1660 6GB Dual",
       "descripcion": "descripcion prueba",
       "precio":1000,
-      "pictureURL":"https://i.imgur.com/lOo5aml.jpg"
+      "pictureURL":"https://i.imgur.com/N3ZDXXf.jpg"
 
       
     },
     {
-        "id": "2",
-        "modelo": "RTX 3080",
+      "id": "2",
+      "modelo": "EVGA GeForce RTX3050 XC 8Gb",
+      "descripcion": "descripcion prueba",
+      "precio":1000,
+      "pictureURL":"https://i.imgur.com/AGuhDAW.jpg"
+
+    },
+    {
+      "id": "3",
+      "modelo": "GPU EVGA GeForce RTX 3060 XC Gaming 12Gb DDR6",
+      "descripcion": "descripcion prueba",
+      "precio":1000,
+      "pictureURL":"https://i.imgur.com/K5ezbPE.png"
+
+      
+    },
+    {
+      "id": "4",
+      "modelo": "GPU ASUS GeForce RTX 3070 Ti TUF 8GB GDDR6",
+      "descripcion": "descripcion prueba",
+      "precio":1000,
+      "pictureURL":"https://i.imgur.com/Lkh3ZLv.jpg"
+
+      
+    },
+    {
+        "id": "5",
+        "modelo": "MSI GeForce RTX 3080 Ti VENTUS 3X OC 12Gb",
         "descripcion": "descripcion prueba",
         "precio":1000,
-        "pictureURL":"https://drive.google.com/file/d/1BAlh3KKHUiRF3RQ6HnIAc2-l_2SSnS0U/view"
+        "pictureURL":"https://i.imgur.com/x8dJTVi.jpg"
         
       }
   ],
