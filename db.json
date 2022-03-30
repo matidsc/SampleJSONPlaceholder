@@ -4,14 +4,18 @@
       "id": "1",
       "modelo": "RTX 3090",
       "descripcion": "descripcion prueba",
-      "precio":1000
+      "precio":1000,
+      "pictureURL":"https://drive.google.com/file/d/1BAlh3KKHUiRF3RQ6HnIAc2-l_2SSnS0U/view?usp=sharing"
+
       
     },
     {
         "id": "2",
         "modelo": "RTX 3080",
         "descripcion": "descripcion prueba",
-        "precio":1000
+        "precio":1000,
+        "pictureURL":"https://drive.google.com/file/d/1BAlh3KKHUiRF3RQ6HnIAc2-l_2SSnS0U/view?usp=sharing"
+
       }
   ],
   "CPU": [
@@ -19,13 +23,17 @@
       "id": "1",
       "modelo": "i7 10040",
       "descripcion": "descripcion prueba",
-      "precio":1000
+      "precio":1000,
+      "pictureURL":"https://drive.google.com/file/d/1BAlh3KKHUiRF3RQ6HnIAc2-l_2SSnS0U/view?usp=sharing"
+
     },
     {
         "id": "2",
         "modelo": "i5 6400",
         "descripcion": "descripcion prueba",
-        "precio":1000
+        "precio":1000,
+        "pictureURL":"https://drive.google.com/file/d/1BAlh3KKHUiRF3RQ6HnIAc2-l_2SSnS0U/view?usp=sharing"
+
       }
   ],
   "SSD": [
@@ -33,13 +41,16 @@
       "id": "1",
       "modelo": "Samsung 480gb",
       "descripcion": "descripcion prueba",
-      "precio":1000
+      "precio":1000,
+      "pictureURL":"https://drive.google.com/file/d/1BAlh3KKHUiRF3RQ6HnIAc2-l_2SSnS0U/view?usp=sharing"
     },
     {
         "id": "2",
         "modelo": "Samsung 240gb",
         "descripcion": "descripcion prueba",
-        "precio":1000
+        "precio":1000,      
+        "pictureURL":"https://drive.google.com/file/d/1BAlh3KKHUiRF3RQ6HnIAc2-l_2SSnS0U/view?usp=sharing"
+
       }
   ]
 }
