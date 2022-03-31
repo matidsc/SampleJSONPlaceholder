@@ -6,7 +6,8 @@
       "modelo": "GPU Palit Geforce GTX1660 6GB Dual",
       "descripcion": "descripcion prueba",
       "precio":1000,
-      "pictureURL":"https://i.imgur.com/N3ZDXXf.jpg"
+      "pictureURL":"https://i.imgur.com/N3ZDXXf.jpg",
+      "categoria":"GPU"
 
       
     },
@@ -15,7 +16,8 @@
       "modelo": "EVGA GeForce RTX3050 XC 8Gb",
       "descripcion": "descripcion prueba",
       "precio":1000,
-      "pictureURL":"https://i.imgur.com/AGuhDAW.jpg"
+      "pictureURL":"https://i.imgur.com/AGuhDAW.jpg",
+      "categoria":"GPU"
 
     },
     {
@@ -23,7 +25,8 @@
       "modelo": "GPU EVGA GeForce RTX 3060 XC Gaming 12Gb DDR6",
       "descripcion": "descripcion prueba",
       "precio":1000,
-      "pictureURL":"https://i.imgur.com/K5ezbPE.png"
+      "pictureURL":"https://i.imgur.com/K5ezbPE.png",
+      "categoria":"GPU"
 
       
     },
@@ -32,7 +35,8 @@
       "modelo": "GPU ASUS GeForce RTX 3070 Ti TUF 8GB GDDR6",
       "descripcion": "descripcion prueba",
       "precio":1000,
-      "pictureURL":"https://i.imgur.com/Lkh3ZLv.jpg"
+      "pictureURL":"https://i.imgur.com/Lkh3ZLv.jpg",
+      "categoria":"GPU"
 
       
     },
@@ -41,7 +45,8 @@
         "modelo": "MSI GeForce RTX 3080 Ti VENTUS 3X OC 12Gb",
         "descripcion": "descripcion prueba",
         "precio":1000,
-        "pictureURL":"https://i.imgur.com/x8dJTVi.jpg"
+        "pictureURL":"https://i.imgur.com/x8dJTVi.jpg",
+        "categoria":"GPU"
         
       }
   ],
@@ -51,7 +56,8 @@
       "modelo": "i7 10040",
       "descripcion": "descripcion prueba",
       "precio":1000,
-      "pictureURL":"https://drive.google.com/file/d/1BAlh3KKHUiRF3RQ6HnIAc2-l_2SSnS0U/view?usp=sharing"
+      "pictureURL":"https://drive.google.com/file/d/1BAlh3KKHUiRF3RQ6HnIAc2-l_2SSnS0U/view?usp=sharing",
+      "categoria":"CPU"
 
     },
     {
@@ -59,7 +65,8 @@
         "modelo": "i5 6400",
         "descripcion": "descripcion prueba",
         "precio":1000,
-        "pictureURL":"https://drive.google.com/file/d/1BAlh3KKHUiRF3RQ6HnIAc2-l_2SSnS0U/view?usp=sharing"
+        "pictureURL":"https://drive.google.com/file/d/1BAlh3KKHUiRF3RQ6HnIAc2-l_2SSnS0U/view?usp=sharing",
+        "categoria":"CPU"
 
       }
   ],
@@ -69,14 +76,18 @@
       "modelo": "Samsung 480gb",
       "descripcion": "descripcion prueba",
       "precio":1000,
-      "pictureURL":"https://drive.google.com/file/d/1BAlh3KKHUiRF3RQ6HnIAc2-l_2SSnS0U/view?usp=sharing"
+      "pictureURL":"https://drive.google.com/file/d/1BAlh3KKHUiRF3RQ6HnIAc2-l_2SSnS0U/view?usp=sharing",
+      "categoria":"SSD"
+
     },
     {
         "id": "2",
         "modelo": "Samsung 240gb",
         "descripcion": "descripcion prueba",
         "precio":1000,      
-        "pictureURL":"https://drive.google.com/file/d/1BAlh3KKHUiRF3RQ6HnIAc2-l_2SSnS0U/view?usp=sharing"
+        "pictureURL":"https://drive.google.com/file/d/1BAlh3KKHUiRF3RQ6HnIAc2-l_2SSnS0U/view?usp=sharing",
+        "categoria":"SSD"
+
 
       }
   ]
