@@ -1,94 +1,120 @@
 {
-  "GPU": [
-   
-    {
-      "id": "1",
-      "modelo": "GPU Palit Geforce GTX1660 6GB Dual",
-      "descripcion": "descripcion prueba",
-      "precio":1000,
-      "pictureURL":"https://i.imgur.com/N3ZDXXf.jpg",
-      "categoria":"GPU"
-
-      
-    },
-    {
-      "id": "2",
-      "modelo": "EVGA GeForce RTX3050 XC 8Gb",
-      "descripcion": "descripcion prueba",
-      "precio":1000,
-      "pictureURL":"https://i.imgur.com/AGuhDAW.jpg",
-      "categoria":"GPU"
-
-    },
-    {
-      "id": "3",
-      "modelo": "GPU EVGA GeForce RTX 3060 XC Gaming 12Gb DDR6",
-      "descripcion": "descripcion prueba",
-      "precio":1000,
-      "pictureURL":"https://i.imgur.com/K5ezbPE.png",
-      "categoria":"GPU"
-
-      
-    },
-    {
-      "id": "4",
-      "modelo": "GPU ASUS GeForce RTX 3070 Ti TUF 8GB GDDR6",
-      "descripcion": "descripcion prueba",
-      "precio":1000,
-      "pictureURL":"https://i.imgur.com/Lkh3ZLv.jpg",
-      "categoria":"GPU"
-
-      
-    },
-    {
-        "id": "5",
-        "modelo": "MSI GeForce RTX 3080 Ti VENTUS 3X OC 12Gb",
-        "descripcion": "descripcion prueba",
+  "GPU":[
+     {
+        "id":"1",
+        "modelo":"GPU Palit Geforce GTX1660 6GB Dual",
+        "descripcion":"descripcion prueba",
+        "precio":1000,
+        "pictureURL":"https://i.imgur.com/N3ZDXXf.jpg",
+        "categoria":"GPU"
+     },
+     {
+        "id":"2",
+        "modelo":"EVGA GeForce RTX3050 XC 8Gb",
+        "descripcion":"descripcion prueba",
+        "precio":1000,
+        "pictureURL":"https://i.imgur.com/AGuhDAW.jpg",
+        "categoria":"GPU"
+     },
+     {
+        "id":"3",
+        "modelo":"GPU EVGA GeForce RTX 3060 XC Gaming 12Gb DDR6",
+        "descripcion":"descripcion prueba",
+        "precio":1000,
+        "pictureURL":"https://i.imgur.com/K5ezbPE.png",
+        "categoria":"GPU"
+     },
+     {
+        "id":"4",
+        "modelo":"GPU ASUS GeForce RTX 3070 Ti TUF 8GB GDDR6",
+        "descripcion":"descripcion prueba",
+        "precio":1000,
+        "pictureURL":"https://i.imgur.com/Lkh3ZLv.jpg",
+        "categoria":"GPU"
+     },
+     {
+        "id":"5",
+        "modelo":"MSI GeForce RTX 3080 Ti VENTUS 3X OC 12Gb",
+        "descripcion":"descripcion prueba",
         "precio":1000,
         "pictureURL":"https://i.imgur.com/x8dJTVi.jpg",
         "categoria":"GPU"
-        
-      }
+     }
   ],
-  "CPU": [
-    {
-      "id": "1",
-      "modelo": "i7 10040",
-      "descripcion": "descripcion prueba",
-      "precio":1000,
-      "pictureURL":"https://drive.google.com/file/d/1BAlh3KKHUiRF3RQ6HnIAc2-l_2SSnS0U/view?usp=sharing",
-      "categoria":"CPU"
-
-    },
-    {
-        "id": "2",
-        "modelo": "i5 6400",
-        "descripcion": "descripcion prueba",
+  "CPU":[
+     {
+        "id":"1",
+        "modelo":"Intel Pentium Gold G6405 2 núcleos 4 hilos ",
+        "descripcion":"descripcion prueba",
+        "precio":1000,
+        "pictureURL":"https://i.imgur.com/Sr6njmz.jpg",
+        "categoria":"CPU"
+     },
+     {
+        "id":"2",
+        "modelo":"CPU Intel Core i3 12100f Alder Lake 1700",
+        "descripcion":"descripcion prueba",
+        "precio":1000,
+        "pictureURL":"https://i.imgur.com/oVQWBAQ.jpg",
+        "categoria":"CPU"
+     },
+     {
+        "id":"3",
+        "modelo":"Intel Core i5 10400f 2.9GHz 12MB LGA1200 10th Gen",
+        "descripcion":"descripcion prueba",
+        "precio":1000,
+        "pictureURL":"CPU Intel Core i3 12100f Alder Lake 1700",
+        "categoria":"CPU"
+     },
+     {
+        "id":"4",
+        "modelo":"CPU Intel Core i5 11400 Rocket Lake 1200",
+        "descripcion":"descripcion prueba",
+        "precio":1000,
+        "pictureURL":"https://i.imgur.com/4H0z7jp.jpg",
+        "categoria":"CPU"
+     },
+     {
+        "id":"5",
+        "modelo":"Intel Core i7 10700f LGA1200 10th Gen",
+        "descripcion":"descripcion prueba",
+        "precio":1000,
+        "pictureURL":"https://i.imgur.com/4H0z7jp.jpg",
+        "categoria":"CPU"
+     },
+     {
+        "id":"6",
+        "modelo":"CPU Intel Core i9-10900KF Comet Lake 1200",
+        "descripcion":"descripcion prueba",
+        "precio":1000,
+        "pictureURL":"https://i.imgur.com/9zUBb9U.jpg",
+        "categoria":"CPU"
+     },
+     {
+        "id":"7",
+        "modelo":"CPU Intel Core i9-11900K Rocket Lake 1200",
+        "descripcion":"descripcion prueba",
+        "precio":1000,
+        "pictureURL":"https://i.imgur.com/3Qq4nzs.jpg",
+        "categoria":"CPU"
+     }
+  ],
+  "SSD":[
+     {
+        "id":"1",
+        "modelo":"Samsung 480gb",
+        "descripcion":"descripcion prueba",
         "precio":1000,
         "pictureURL":"https://drive.google.com/file/d/1BAlh3KKHUiRF3RQ6HnIAc2-l_2SSnS0U/view?usp=sharing",
-        "categoria":"CPU"
-
-      }
-  ],
-  "SSD": [
-    {
-      "id": "1",
-      "modelo": "Samsung 480gb",
-      "descripcion": "descripcion prueba",
-      "precio":1000,
-      "pictureURL":"https://drive.google.com/file/d/1BAlh3KKHUiRF3RQ6HnIAc2-l_2SSnS0U/view?usp=sharing",
-      "categoria":"SSD"
-
-    },
-    {
-        "id": "2",
-        "modelo": "Samsung 240gb",
-        "descripcion": "descripcion prueba",
-        "precio":1000,      
+        "categoria":"SSD"
+     },
+     {
+        "id":"2",
+        "modelo":"Samsung 240gb",
+        "descripcion":"descripcion prueba",
+        "precio":1000,
         "pictureURL":"https://drive.google.com/file/d/1BAlh3KKHUiRF3RQ6HnIAc2-l_2SSnS0U/view?usp=sharing",
         "categoria":"SSD"
-
-
-      }
+     }
   ]
 }
