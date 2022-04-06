@@ -1,5 +1,5 @@
 {
-  "GPU":[
+  "Productos":[
      {
         "id":"1",
         "modelo":"GPU Palit Geforce GTX1660 6GB Dual",
@@ -7,7 +7,7 @@
         "precio":1000,
         "pictureURL":"https://i.imgur.com/N3ZDXXf.jpg",
         "categoria":"GPU",
-        "destacado":true
+        "destacado":"true"
      },
      {
         "id":"2",
@@ -24,7 +24,7 @@
         "precio":1000,
         "pictureURL":"https://i.imgur.com/K5ezbPE.png",
         "categoria":"GPU",
-        "destacado":true
+        "destacado":"true"
      },
      {
         "id":"4",
@@ -41,84 +41,80 @@
         "precio":1000,
         "pictureURL":"https://i.imgur.com/x8dJTVi.jpg",
         "categoria":"GPU"
-     }
-  ],
-  "CPU":[
-     {
-        "id":"1",
-        "modelo":"Intel Pentium Gold G6405 2 núcleos 4 hilos ",
-        "descripcion":"descripcion prueba",
-        "precio":1000,
-        "pictureURL":"https://i.imgur.com/Sr6njmz.jpg",
-        "categoria":"CPU"
-     },
-     {
-        "id":"2",
-        "modelo":"CPU Intel Core i3 12100f Alder Lake 1700",
-        "descripcion":"descripcion prueba",
-        "precio":1000,
-        "pictureURL":"https://i.imgur.com/oVQWBAQ.jpg",
-        "categoria":"CPU",
-        "destacado":true
-     },
-     {
-        "id":"3",
-        "modelo":"Intel Core i5 10400f 2.9GHz 12MB LGA1200 10th Gen",
-        "descripcion":"descripcion prueba",
-        "precio":1000,
-        "pictureURL":"https://i.imgur.com/4H0z7jp.jpg",
-        "categoria":"CPU"
-     },
-     {
-        "id":"4",
-        "modelo":"CPU Intel Core i5 11400 Rocket Lake 1200",
-        "descripcion":"descripcion prueba",
-        "precio":1000,
-        "pictureURL":"https://i.imgur.com/4H0z7jp.jpg",
-        "categoria":"CPU"
-     },
-     {
-        "id":"5",
-        "modelo":"Intel Core i7 10700f LGA1200 10th Gen",
-        "descripcion":"descripcion prueba",
-        "precio":1000,
-        "pictureURL":"https://i.imgur.com/4H0z7jp.jpg",
-        "categoria":"CPU",
-        "destacado":true
-     },
-     {
-        "id":"6",
-        "modelo":"CPU Intel Core i9-10900KF Comet Lake 1200",
-        "descripcion":"descripcion prueba",
-        "precio":1000,
-        "pictureURL":"https://i.imgur.com/9zUBb9U.jpg",
-        "categoria":"CPU"
-     },
-     {
-        "id":"7",
-        "modelo":"CPU Intel Core i9-11900K Rocket Lake 1200",
-        "descripcion":"descripcion prueba",
-        "precio":1000,
-        "pictureURL":"https://i.imgur.com/3Qq4nzs.jpg",
-        "categoria":"CPU"
-     }
-  ],
-  "SSD":[
-     {
-        "id":"1",
-        "modelo":"Samsung 480gb",
-        "descripcion":"descripcion prueba",
-        "precio":1000,
-        "pictureURL":"https://drive.google.com/file/d/1BAlh3KKHUiRF3RQ6HnIAc2-l_2SSnS0U/view?usp=sharing",
-        "categoria":"SSD"
-     },
-     {
-        "id":"2",
-        "modelo":"Samsung 240gb",
-        "descripcion":"descripcion prueba",
-        "precio":1000,
-        "pictureURL":"https://drive.google.com/file/d/1BAlh3KKHUiRF3RQ6HnIAc2-l_2SSnS0U/view?usp=sharing",
-        "categoria":"SSD"
-     }
+     },{
+      "id":"6",
+      "modelo":"Intel Pentium Gold G6405 2 núcleos 4 hilos ",
+      "descripcion":"descripcion prueba",
+      "precio":1000,
+      "pictureURL":"https://i.imgur.com/Sr6njmz.jpg",
+      "categoria":"CPU"
+   },
+   {
+      "id":"7",
+      "modelo":"CPU Intel Core i3 12100f Alder Lake 1700",
+      "descripcion":"descripcion prueba",
+      "precio":1000,
+      "pictureURL":"https://i.imgur.com/oVQWBAQ.jpg",
+      "categoria":"CPU",
+      "destacado":"true"
+   },
+   {
+      "id":"8",
+      "modelo":"Intel Core i5 10400f 2.9GHz 12MB LGA1200 10th Gen",
+      "descripcion":"descripcion prueba",
+      "precio":1000,
+      "pictureURL":"https://i.imgur.com/4H0z7jp.jpg",
+      "categoria":"CPU"
+   },
+   {
+      "id":"9",
+      "modelo":"CPU Intel Core i5 11400 Rocket Lake 1200",
+      "descripcion":"descripcion prueba",
+      "precio":1000,
+      "pictureURL":"https://i.imgur.com/4H0z7jp.jpg",
+      "categoria":"CPU"
+   },
+   {
+      "id":"10",
+      "modelo":"Intel Core i7 10700f LGA1200 10th Gen",
+      "descripcion":"descripcion prueba",
+      "precio":1000,
+      "pictureURL":"https://i.imgur.com/4H0z7jp.jpg",
+      "categoria":"CPU",
+      "destacado":"true"
+   },
+   {
+      "id":"11",
+      "modelo":"CPU Intel Core i9-10900KF Comet Lake 1200",
+      "descripcion":"descripcion prueba",
+      "precio":1000,
+      "pictureURL":"https://i.imgur.com/9zUBb9U.jpg",
+      "categoria":"CPU"
+   },
+   {
+      "id":"12",
+      "modelo":"CPU Intel Core i9-11900K Rocket Lake 1200",
+      "descripcion":"descripcion prueba",
+      "precio":1000,
+      "pictureURL":"https://i.imgur.com/3Qq4nzs.jpg",
+      "categoria":"CPU"
+   },
+   {
+      "id":"13",
+      "modelo":"Samsung 480gb",
+      "descripcion":"descripcion prueba",
+      "precio":1000,
+      "pictureURL":"https://drive.google.com/file/d/1BAlh3KKHUiRF3RQ6HnIAc2-l_2SSnS0U/view?usp=sharing",
+      "categoria":"SSD"
+   },
+   {
+      "id":"14",
+      "modelo":"Samsung 240gb",
+      "descripcion":"descripcion prueba",
+      "precio":1000,
+      "pictureURL":"https://drive.google.com/file/d/1BAlh3KKHUiRF3RQ6HnIAc2-l_2SSnS0U/view?usp=sharing",
+      "categoria":"SSD"
+   }
   ]
+
 }
