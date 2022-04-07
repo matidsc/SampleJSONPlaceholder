@@ -47,15 +47,15 @@
       "descripcion":"descripcion prueba",
       "precio":1000,
       "pictureURL":"https://i.imgur.com/Sr6njmz.jpg",
-      "categoria":"CPU"
+      "categoria":"Procesadores"
    },
    {
       "id":"7",
-      "modelo":"CPU Intel Core i3 12100f Alder Lake 1700",
+      "modelo":"Procesadores Intel Core i3 12100f Alder Lake 1700",
       "descripcion":"descripcion prueba",
       "precio":1000,
       "pictureURL":"https://i.imgur.com/oVQWBAQ.jpg",
-      "categoria":"CPU",
+      "categoria":"Procesadores",
       "destacado":"true"
    },
    {
@@ -64,56 +64,89 @@
       "descripcion":"descripcion prueba",
       "precio":1000,
       "pictureURL":"https://i.imgur.com/4H0z7jp.jpg",
-      "categoria":"CPU"
+      "categoria":"Procesadores"
    },
    {
       "id":"9",
-      "modelo":"CPU Intel Core i5 11400 Rocket Lake 1200",
+      "modelo":"Procesadores Intel Core i5 11400 Rocket Lake 1200",
       "descripcion":"descripcion prueba",
       "precio":1000,
       "pictureURL":"https://i.imgur.com/4H0z7jp.jpg",
-      "categoria":"CPU"
+      "categoria":"Procesadores"
    },
    {
       "id":"10",
-      "modelo":"Intel Core i7 10700f LGA1200 10th Gen",
+      "modelo":"Intel Core i7 10700fy LGA1200 10th Gen",
       "descripcion":"descripcion prueba",
       "precio":1000,
       "pictureURL":"https://i.imgur.com/4H0z7jp.jpg",
-      "categoria":"CPU",
+      "categoria":"Procesadores",
       "destacado":"true"
    },
    {
       "id":"11",
-      "modelo":"CPU Intel Core i9-10900KF Comet Lake 1200",
+      "modelo":"Procesadores Intel Core i9-10900KF Comet Lake 1200",
       "descripcion":"descripcion prueba",
       "precio":1000,
       "pictureURL":"https://i.imgur.com/9zUBb9U.jpg",
-      "categoria":"CPU"
+      "categoria":"Procesadores"
    },
    {
       "id":"12",
-      "modelo":"CPU Intel Core i9-11900K Rocket Lake 1200",
+      "modelo":"Procesadores Intel Core i9-11900K Rocket Lake 1200",
       "descripcion":"descripcion prueba",
       "precio":1000,
       "pictureURL":"https://i.imgur.com/3Qq4nzs.jpg",
-      "categoria":"CPU"
+      "categoria":"Procesadores"
    },
    {
       "id":"13",
       "modelo":"Samsung 480gb",
-      "descripcion":"descripcion prueba",
+      "descripcion":"SSD Patriot Burst Elite 120GB 2.5",
       "precio":1000,
-      "pictureURL":"https://drive.google.com/file/d/1BAlh3KKHUiRF3RQ6HnIAc2-l_2SSnS0U/view?usp=sharing",
+      "pictureURL":"https://i.imgur.com/4X3TJf3.jpg",
       "categoria":"SSD"
    },
    {
       "id":"14",
-      "modelo":"Samsung 240gb",
+      "modelo":"ADATA SU650 SSD 3D NAND 480Gb",
       "descripcion":"descripcion prueba",
       "precio":1000,
-      "pictureURL":"https://drive.google.com/file/d/1BAlh3KKHUiRF3RQ6HnIAc2-l_2SSnS0U/view?usp=sharing",
+      "pictureURL":"https://i.imgur.com/wBSjcE0.jpg",
       "categoria":"SSD"
+   },
+   {
+      "id":"15",
+      "modelo":"SSD 2.5 960GB Team GX1 sata III",
+      "descripcion":"descripcion prueba",
+      "precio":1000,
+      "pictureURL":"https://i.imgur.com/FosKcT1.jpg",
+      "categoria":"SSD"
+   },
+   {
+      "id":"16",
+      "modelo":"Equipo Intel Core I3 10100f Pro Gamer con GTX1660",
+      "descripcion":"descripcion prueba",
+      "precio":1000,
+      "pictureURL":"https://i.imgur.com/wLzFumn.jpg",
+      "categoria":"ARMADOS"
+   },
+   {
+      "id":"17",
+      "modelo":"Equipo Intel Core I7 10700f Pro Gamer – 16Gb – SSD PCIe – GTX1660 Super",
+      "descripcion":"descripcion prueba",
+      "precio":1000,
+      "pictureURL":"https://i.imgur.com/eztWnWW.jpg",
+      "categoria":"ARMADOS"
+   },
+   
+   {
+      "id":"18",
+      "modelo":"Equipo Intel Core I7 11700KF Full Gamer – 16Gb + SSD PCIe 1Tb + RTX3080",
+      "descripcion":"descripcion prueba",
+      "precio":1000,
+      "pictureURL":"https://i.imgur.com/e5VBm3B.jpg",
+      "categoria":"ARMADOS"
    }
   ]
 
