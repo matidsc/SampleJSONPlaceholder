@@ -4,9 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --watch db.json",
-    "json:server": "json-server --watch db.json",
-    "applyChanges": "git add . & git commit -m 'Cambios' & git push & json-server --watch db.json"
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
