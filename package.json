@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "json:server":"json-server --watch db.json",
+    "applyChanges":"git add . git commit -m 'JSON UPDATE' & git push origin master"
   },
   "author": "",
   "license": "ISC",
