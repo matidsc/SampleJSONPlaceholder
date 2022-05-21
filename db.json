@@ -36,14 +36,14 @@
       },
       {
          "id":2,
-         "idServicio":1,
+         "idS":1,
          "nom":"Novias",
          "desc":"En la prueba de maquillaje vemos cual es el estuio que querés para tu makeup, cómo va a ser el vestido y el peinado para que todo sea armónico. Voy a saber cómo está tu piel y de ser necesario te ayudo a armar una rutina de skincare adecuada para que tu rostro esté sano, fresco y luminoso. Hacemos 2 propuestas de makeup, modificamos lo que sea necesario hasta llegar al resultado, al maquillaje que soñás para ese día. Nos mantenemos en contacto posteriormente, me podés hacer todas las consultas que sean necesarias. El día de tu boda voy a estar disponible exclusivamente para vos, el haber hecho la prueba nos da a ambas la seguridad de que el resultado va a ser el mejor. Todos los productos que uso tanto para la preparación de la piel como para el maquillaje son de calidad profesional, a prueba de agua y de larga duración.",
          "imgs":["MaquillajeNovia04.jpeg","MaquillajeNovia05.jpeg","MaquillajeNovia06.jpeg"]
       },
       {
          "id":3,
-         "idServicio":1,
+         "idS":1,
          "nom":"Maquillaje social",
          "p":1200,
          "desc":"Preparo la piel con la línea Lidherma profesonal, el maquillaje se realiza con productos de larga duración. Tu makeup va a estar intacto durante horas. Si son 2 o más personas las que se van a maquillar en el mismo lugar, consultá porque tienen descuento.",
@@ -51,24 +51,31 @@
       },
       {
          "id":4,
-         "idServicio":2,
+         "idS":2,
          "nom":"15 años",
          "desc":"La prueba es fundamental ya que vemos cuál es el estilo que querés para tu makeup y tu peinado, cómo va a ser el vestido para que todo sea armónico. Voy a saber cómo está tu piel y de ser necesario te ayudo a armar una rutina de skincare adecuada para que tu rostro esté sano, fresco y luminoso. Hacemos 2 propuestas de makeup y 2 de peinado, modificamos lo que sea necesario hasta llegar al resultado que soñás para ese día. Nos matenemos en contacto posteriormente, me podés hacer todas las consultas y/o ajustes que sean necesarios. El haber hecho la prueba nos da la seguridad de que el resultado va a ser el mejor. Todos los productos que uso tanto para la preparación de la piel, el maquillaje y el peinado son de calidad profesional, el maquillaje es a prueba de agua y de larga duración.",
          "imgs":["PeinadoQuince.jpeg"]
       },
       {
          "id":5,
-         "idServicio":2,
+         "idS":2,
          "nom":"Novias",
          "desc":"La prueba es fundamental ya que vemos cuál es el estilo que querés para tu makeup y tu peinado, cómo va a ser el vestido para que todo sea armónico. Voy a saber cómo está tu piel y de ser necesario te ayudo a armar una rutina de skincare adecuada para que tu rostro esté sano, fresco y luminoso. Hacemos 2 propuestas de makeup y 2 de peinado, modificamos lo que sea necesario hasta llegar al resultado que soñás para ese día. Nos matenemos en contacto posteriormente, me podés hacer todas las consultas que sean necesarias. El día de tu boda voy a estar disponible exclusivamente para vos, el haber hecho la prueba nos da a ambas la seguridad de que el resultado va a ser el mejor. Todos los productos que uso tanto para la preparación de la piel, el maquillaje y el peinado son de calidad profesional, el maquillaje es a prueba de agua y de larga duración.",
          "imgs":["Peinado09.jpeg","Peinado10.jpeg","Peinado11.jpeg","MaquillajeNovia01.jpeg","MaquillajeNovia02.jpeg","MaquillajeNovia03.jpeg","Peinado12.jpeg","Peinado13.jpeg","MaquillajeNovia04.jpeg","Peinado06.jpeg","Peinado07.jpeg","Peinado08.jpeg"]
       },
       {
          "id":6,
-         "idServicio":2,
+         "idS":2,
          "nom":"Maquillaje social",
          "p":1200,
          "desc":"Si tenés un evento, una fiesta o simplemente querés estar fabulosa, este servicio es para vos!. Maquillaje: Preparo la piel con la línea Lidherma profesional, el maquillaje se realiza con productos de larga duración. Tu makeup va a estar intacto durante horas. Peinado: tu pelo con productos de claidad profesional, para que el peinado dure impecable durante todo el evento. Podés maquillarte y peinarte en mi estudio ubicado en Lagomar, CIudad de la Costa o si preferís voy a tu domicilio. El costo de este servicio es de $1600 si lo hacés en mi estudio. Por servicio a domicilio consultar ya que es según la zona a la que deboo trasladarme.",
+         "imgs":["Lifting01.jpeg"]
+      },
+      {
+         "id":7,
+         "idS":3,
+         "nom":"Basic bride",
+         "desc":"Nos conocemos: el día de la prueba vamos a charlar sobre el estilo que te gustaría llevar el día de la boda, lo ideal es traer fotos del vestido, para crear un estilo armónico. Tu piel: Voy a hacer una evaluación completa de tu rostro, hacemos una limpieza de cutis con productos profesionales que se ajusten a tus necesidades, te ayudo a armar una rutina de skincare para que llegues al día de la fiesta con la piel sana, luminosa y fresca. El makeup: el día de la prueba realizamos 2 propuestas de maquillaje, hacemos las modificaciones que sean necesarias para llegar al makeup que soñaste para el día de tu boda. Tendré en cuenta la morfología de tu rostro y en particular de tus ojos para que el maquillaje potencie tu belleza. Los productos utilizados son a prueba de agua y de larga duración de calidad profesional. El peinado: el día de la prueba realizamos 2 propuestas de peinado, teniendo en cuenta la morfología de tu rostro para llegar al resultado que más te favorezca. El día de la boda voy a estar disponible exclusivamente para vos, ambas vamos a tener la tranquilidad de que el resultado va a ser el mejor.",
          "imgs":["Lifting01.jpeg"]
       }
    ]
