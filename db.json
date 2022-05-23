@@ -16,14 +16,18 @@
          "id":4,
          "nom":"Diseño y perfilado de cejas",
          "desc":"Consiste en diseñar la ceja ideal para TU rostro, teniendo en cuenta su morfología, la forma natural de la ceja, el tipo de vello y la cantidad. Es 100% personalizado y cuidado ya que cada rostro es único 💁‍♀️. Si querés darle definición e impacto a la mirada, el tinte con Henna es para vos. La Henna es un producto de origen vegetal 🌱. La duración del perfilado depende del crecimiento del vello de cada persona, es de aproximadamente 21 a 28 días, con lo cual te aconsejo el mantenimiento una vez al mes. EL PERFILADO NO ES UNA SIMPLE DEPILACIÓN, ES DISEÑO DE MIRADAS 😉.",
-         "p":"600. Mantenimiento mensual $500"
+         "p":"600. Mantenimiento mensual $500",
+         "imagenes":["Cejas01.jpeg"]
+
 
       },
       {
          "id":5,
          "nom":"Lifting y nutrición de pestañas",
          "desc":"Es un tratamiento semipermanente que se realiza sobre tu pestaña natural, curvándola y dándole un efecto de alargamiento. El primer paso es limpiar la zona, esto se realiza con un shampoo específico para pestañas. Hecho esto se pasa a colocar los moldes (bigudies) adecuados para tu pestaña y asi poder aplicar los productos con los que se realiza el lifting. Dejamos que actúe cada uno el tiempo necesario y posteriormente retiramos. Acá es cuando se coloca el tinte en el caso de que quieras hacerlo. Por último aplicamos la nutrición con Queratina a las pestañas y LISTO!  VOS DIOSA CON LAS PESTAÑAS HASTA EL CIELO! 💁‍♀️🌌.",
-         "p":990
+         "p":990,
+         "imagenes":["Lifting01.jpeg"]
+
       }
    ],
    "subservicios":[
