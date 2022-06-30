@@ -4,7 +4,7 @@
        "id": 1,
        "title": "Drink bombones",
        "previewDescription": "Torta de chocolate con bombones y trufas",
-       "image": "./images/cakes/drink_bombones.webp",
+       "image": "https://i.imgur.com/7C7fYgR.jpg",
        "price": 3000,
        "stock": 30
      },
@@ -12,7 +12,7 @@
        "id": 2,
        "title": "Torta de 15",
        "previewDescription": "Torta de trufas de chocolate blanco y chocolate común",
-       "image": "./images/cakes/15_years.webp",
+       "image": "https://i.imgur.com/QmFxbXl.jpg",
        "price": 2300,
        "stock": 10
      },
@@ -20,7 +20,7 @@
        "id": 3,
        "title": "Number cake",
        "previewDescription": "Torta de números",
-       "image": "./images/cakes/number_cake.webp",
+       "image": "https://i.imgur.com/UYd7K1b.jpg",
        "price": 1499,
        "stock": 15
      },
@@ -28,7 +28,7 @@
        "id": 4,
        "title": "Torta de frutilla",
        "previewDescription": "Torta de crema con frutillas bañadas en chocolate",
-       "image": "./images/cakes/cake_frutillas.webp",
+       "image": "https://i.imgur.com/pA7a1jI.jpg",
        "price": 3000,
        "stock": 30
      },
@@ -36,7 +36,7 @@
        "id": 5,
        "title": "Red velvet",
        "previewDescription": "Torta de cumpleaños temática red",
-       "image": "./images/cakes/cake_red.webp",
+       "image": "https://i.imgur.com/qmrklR3.jpg",
        "price": 3000,
        "stock": 5
      },
@@ -44,7 +44,7 @@
        "id": 6,
        "title": "Arrollado de frutillas",
        "previewDescription": "Pionono con crema y futillas con frutillas con jalea",
-       "image": "./images/cakes/arrollado_frutillas.jpg",
+       "image": "https://i.imgur.com/GuzsKOk.jpg",
        "price": 3000,
        "stock": 50
      },
@@ -52,7 +52,7 @@
        "id": 7,
        "title": "Donas",
        "previewDescription": "Donas decoradas",
-       "image": "./images/cakes/donas.jpg",
+       "image": "https://i.imgur.com/Bmv2KSd.jpg",
        "price": 3000,
        "stock": 100
      },
@@ -60,7 +60,7 @@
        "id": 8,
        "title": "Masas artesanales",
        "previewDescription": "Masas artesanales deliciosas",
-       "image": "./images/cakes/masas.jpg",
+       "image": "https://i.imgur.com/228DdzE.jpg",
        "price": 3000,
        "stock": 1000
      },
@@ -68,7 +68,7 @@
        "id": 9,
        "title": "Chajá",
        "previewDescription": "Chajá artesanal",
-       "image": "./images/cakes/chaja.jpg",
+       "image": "https://i.imgur.com/J2At5Ls.jpg",
        "price": 3000,
        "stock": 50
      },
@@ -76,7 +76,7 @@
        "id": 10,
        "title": "Bombones rellenos",
        "previewDescription": "Bombones rellenos con dulce de leche",
-       "image": "./images/cakes/bombones.jpg",
+       "image": "https://i.imgur.com/19rgbVS.jpg",
        "price": 3000,
        "stock": 2000
      },
@@ -84,7 +84,7 @@
        "id": 11,
        "title": "Torta gomitas",
        "previewDescription": "Torta con gomitas decoración de colores",
-       "image": "./images/cakes/gomitas.jpg",
+       "image": "https://i.imgur.com/GO6nLQr.jpg",
        "price": 3000,
        "stock": 20
      }
@@ -94,7 +94,7 @@
        "id": 1,
        "title": "Torta unicornio",
        "previewDescription": "Torta temática unicornio",
-       "image": "./images/cakes/unicornio.jpg",
+       "image": "https://i.imgur.com/xNP9yUh.jpg",
        "price": 3000,
        "stock": 10
      },
@@ -102,7 +102,7 @@
        "id": 2,
        "title": "Torta fornite",
        "previewDescription": "Torta temática fornite",
-       "image": "./images/cakes/fornite.jpg",
+       "image": "https://i.imgur.com/18yAElZ.jpg",
        "price": 3000,
        "stock": 5
      },
@@ -110,7 +110,7 @@
        "id": 3,
        "title": "Torta Stranger Things",
        "previewDescription": "Torta temática Stranger Things",
-       "image": "./images/cakes/stringer_cake.jpg",
+       "image": "https://i.imgur.com/PBpLEwc.jpg",
        "price": 3000,
        "stock": 5
      },
@@ -118,7 +118,7 @@
        "id": 4,
        "title": "Torta de halloween",
        "previewDescription": "Torta con temática de halloween para fiesta",
-       "image": "./images/cakes/halloween_cake.jpg",
+       "image": "https://i.imgur.com/GPLdCNz.jpg",
        "price": 3000,
        "stock": 12
      },
@@ -126,7 +126,7 @@
        "id": 5,
        "title": "Galletitas sonic",
        "previewDescription": "Galletas temáticas para cumpleaños",
-       "image": "./images/cakes/cookies_sonic.webp",
+       "image": "https://i.imgur.com/bZArMqK.jpg",
        "price": 1000,
        "stock": 20
      }
