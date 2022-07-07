@@ -87,11 +87,9 @@
        "image": "https://i.imgur.com/GO6nLQr.jpg",
        "price": 3000,
        "stock": 20
-     }
-   ],
-   "tematicas":[
+     },
      {
-       "id": 1,
+       "id": 12,
        "title": "Torta unicornio",
        "previewDescription": "Torta temática unicornio",
        "image": "https://i.imgur.com/xNP9yUh.jpg",
@@ -99,7 +97,7 @@
        "stock": 10
      },
      {
-       "id": 2,
+       "id": 13,
        "title": "Torta fornite",
        "previewDescription": "Torta temática fornite",
        "image": "https://i.imgur.com/18yAElZ.jpg",
@@ -107,7 +105,7 @@
        "stock": 5
      },
      {
-       "id": 3,
+       "id": 14,
        "title": "Torta Stranger Things",
        "previewDescription": "Torta temática Stranger Things",
        "image": "https://i.imgur.com/PBpLEwc.jpg",
@@ -115,7 +113,7 @@
        "stock": 5
      },
      {
-       "id": 4,
+       "id": 15,
        "title": "Torta de halloween",
        "previewDescription": "Torta con temática de halloween para fiesta",
        "image": "https://i.imgur.com/GPLdCNz.jpg",
@@ -123,7 +121,7 @@
        "stock": 12
      },
      {
-       "id": 5,
+       "id": 16,
        "title": "Galletitas sonic",
        "previewDescription": "Galletas temáticas para cumpleaños",
        "image": "https://i.imgur.com/bZArMqK.jpg",
